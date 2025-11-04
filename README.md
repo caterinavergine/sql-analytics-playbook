@@ -4,9 +4,9 @@ A generic repository for shareable SQL patterns, analysis snippets and real-worl
 
 ## Structure
 ```
-/src/sql/               # Reusable SQL patterns (CTEs, utilities, macros-in-SQL, etc.)
 /projects/<topic>/      # Self-contained examples with context & docs
 /docs/                  # Generic documentation (schemas, conventions)
+/src/sql/               # Reusable SQL patterns (CTEs, utilities, macros-in-SQL, etc.)
 ```
 ## Analytical Methodology
 | Step                    | Description                                       |
