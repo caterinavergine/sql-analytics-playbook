@@ -1,6 +1,6 @@
 # SQL Analytics Playbook
 
-A generic repository for shareable SQL patterns, analysis snippets and real-world data scenarios, designed to demonstrate end-to-end analytical thinking, data modeling skills, and business case execution
+A generic repository for shareable SQL patterns, analysis snippets and real-world data scenarios, designed to demonstrate end-to-end analytical thinking, data modeling skills and business case execution
 
 ## Structure
 ```
