@@ -42,7 +42,7 @@ Only rows where at least **one** rate changed are returned.
 
 ---
 
-## Core Logic (Query 2A)
+## Core Logic
 - Partition by `(customer_id, payment_method_id)`
 - Order by `starts_at` (and a stable tiebreaker if available)
 - Use `LAG()` to bring previous values into the current row
